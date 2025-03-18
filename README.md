@@ -43,6 +43,3 @@ parlant-server --module "service"
 streamlit run Home.py
 ```
 
-## Support
-
-If you encounter any issues or have questions, please open an issue in the repository.
